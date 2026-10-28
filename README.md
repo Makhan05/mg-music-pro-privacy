@@ -193,3 +193,37 @@ Copyright owners or authorized representatives who believe that their rights hav
 ### 6. Independent Application
 
 MG Music Pro is an independent application and is not officially affiliated with, sponsored by, or endorsed by YouTube, Audius, or JioSaavn unless expressly stated otherwise. Any third-party names or trademarks are used only to identify the respective services.
+
+  **Radio Streaming and Copyright Disclaimer**
+
+**1. Third-Party Radio Streaming**
+
+MG Music Pro provides access to internet radio stations through online streaming URLs. Radio stations may be operated by independent broadcasters, radio networks, or other third-party providers.
+
+**2. No Music Storage or Downloads**
+
+MG Music Pro does not intentionally download or permanently store radio broadcasts or music for offline playback. Radio content is streamed over the internet while the user listens. Temporary buffering required for playback may occur.
+
+**3. Third-Party Sources**
+
+Radio streams are accessed through their available streaming URLs and may originate from the radio stations' websites, official streaming servers, or other publicly accessible streaming sources. MG Music Pro does not own or claim ownership of the music, broadcasts, or other content transmitted by these stations.
+
+**4. Copyright and Licensing**
+
+All music, broadcasts, recordings, trademarks, and other content remain the property of their respective rights holders. The availability of a radio stream online does not necessarily mean that it is free from copyright restrictions or that all forms of third-party use are authorized.
+
+MG Music Pro respects copyright laws and the applicable terms and conditions of radio broadcasters and streaming providers.
+
+**5. Third-Party Services and Responsibility**
+
+Radio stations are independently operated by their respective providers. Their content, availability, streaming URLs, and applicable terms may change without notice. MG Music Pro does not control the programming or content transmitted by independent radio stations.
+
+**6. Copyright Concerns and Contact**
+
+Copyright owners or authorized representatives who believe that their rights have been infringed may contact the developer with the station name, stream URL, and relevant details so that the concern can be reviewed and appropriate action can be considered.
+
+**7. No Official Affiliation**
+
+Unless expressly stated otherwise, MG Music Pro is not affiliated with, sponsored by, or endorsed by any third-party radio station or broadcaster. Station names and trademarks are used only to identify the respective services.
+
+
