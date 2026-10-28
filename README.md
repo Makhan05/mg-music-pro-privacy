@@ -162,3 +162,34 @@ MG Music Pro उपयोगकर्ताओं की गोपनीयत�
 17. सहमति
 
 MG Music Pro का उपयोग करके आप इस गोपनीयता नीति में वर्णित शर्तों को समझने और स्वीकार करने की पुष्टि करते हैं।
+
+
+## Copyright Disclaimer
+
+**MG Music Pro — Third-Party Content and Copyright Notice**
+
+MG Music Pro is a music player application that provides access to third-party music services, including YouTube, Audius, and JioSaavn, where available.
+
+### 1. Third-Party Content
+
+Music, videos, artwork, thumbnails, names, trademarks, and other content accessed through third-party services belong to their respective owners. MG Music Pro does not claim ownership of such third-party content.
+
+### 2. YouTube Playback
+
+YouTube content is accessed through an embedded YouTube player. MG Music Pro does not provide a feature to download or save YouTube audio or video content for offline playback. YouTube content remains subject to YouTube's applicable terms, policies, and copyright restrictions.
+
+### 3. Audius and JioSaavn
+
+Content accessed through Audius and JioSaavn is subject to the respective services' terms, API conditions, content availability, and applicable copyright requirements.
+
+### 4. Copyright and Intellectual Property
+
+We respect the intellectual property rights of artists, creators, record labels, publishers, and other rights holders. We do not claim ownership of music or other content owned by third parties. Access to third-party content does not imply ownership or authorization to redistribute that content.
+
+### 5. Content Removal and Copyright Concerns
+
+Copyright owners or authorized representatives who believe that their rights have been infringed may contact the app developer with relevant details so that the concern can be reviewed and appropriate action can be considered.
+
+### 6. Independent Application
+
+MG Music Pro is an independent application and is not officially affiliated with, sponsored by, or endorsed by YouTube, Audius, or JioSaavn unless expressly stated otherwise. Any third-party names or trademarks are used only to identify the respective services.
