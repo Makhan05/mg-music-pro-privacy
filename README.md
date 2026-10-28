@@ -226,4 +226,65 @@ Copyright owners or authorized representatives who believe that their rights hav
 
 Unless expressly stated otherwise, MG Music Pro is not affiliated with, sponsored by, or endorsed by any third-party radio station or broadcaster. Station names and trademarks are used only to identify the respective services.
 
+```html
+<section id="radio-copyright-disclaimer">
+  <h2>Radio Streaming and Copyright Disclaimer</h2>
+
+  <h3>1. Third-Party Radio Streaming</h3>
+  <p>
+    MG Music Pro provides access to internet radio stations through
+    available online streaming URLs. These stations may be operated
+    by independent broadcasters or third-party providers.
+  </p>
+
+  <h3>2. No Music Downloads or Permanent Storage</h3>
+  <p>
+    MG Music Pro does not provide a feature to download or permanently
+    store radio broadcasts or music for offline playback. Radio content
+    is streamed over the internet while the user listens. Temporary
+    buffering required for playback may occur.
+  </p>
+
+  <h3>3. Third-Party Sources</h3>
+  <p>
+    Radio streams may originate from broadcasters' websites, streaming
+    servers, or other publicly accessible sources. MG Music Pro does
+    not claim ownership of third-party music or broadcasts.
+  </p>
+
+  <h3>4. Copyright and Licensing</h3>
+  <p>
+    All music, broadcasts, recordings, and trademarks belong to their
+    respective rights holders. The availability of a radio stream
+    online does not necessarily mean that it is free from copyright
+    restrictions or that its use in third-party applications is
+    authorized.
+  </p>
+
+  <h3>5. Third-Party Services</h3>
+  <p>
+    Radio stations are independently operated by their respective
+    providers. Their content, availability, and streaming URLs may
+    change without notice.
+  </p>
+
+  <h3>6. Copyright Concerns</h3>
+  <p>
+    Copyright owners or authorized representatives may contact the
+    developer with the station name, stream URL, and relevant details
+    so that the concern can be reviewed and appropriate action
+    considered.
+  </p>
+
+  <h3>7. No Official Affiliation</h3>
+  <p>
+    Unless expressly stated otherwise, MG Music Pro is not affiliated
+    with, sponsored by, or endorsed by third-party radio stations or
+    broadcasters. Their names and trademarks identify their respective
+    services only.
+  </p>
+</section>
+```
+
+
 
